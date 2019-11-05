@@ -1,2 +1,1 @@
-
-you will learn how to locate hidden files
+Ubuntu is a free operating system that uses the Linux kernel. The word "ubuntu" is an old African word meaning "humanity to others". It is pronounced "oo-boon-too". It is one of the most popular Linux distributions and it is based on Debian Linux computer operating system. This will help you do some stuff for cyberpatriots 
